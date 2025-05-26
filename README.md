@@ -28,10 +28,6 @@ This is a console-based online store application built using Java and Object-Ori
 
 ---
 
-Acknowledgments
-This project was developed as part of learning OOP in Java
----
-
 ## 🗂️ Project Structure
 
 Online-Store-Java/
@@ -60,3 +56,9 @@ Online-Store-Java/
 ```bash
 javac src/*.java
 java src/OnlineStoreApp
+
+```
+Acknowledgments
+This project was developed as part of learning OOP in Java
+
+---
