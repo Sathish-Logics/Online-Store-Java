@@ -25,25 +25,6 @@ This is a console-based online store application built using Java and Object-Ori
 - **Method Overloading** (Payment methods)
 - **Encapsulation**
 - **Constructor Overloading**
-
----
-
-## 🗂️ Project Structure
-
-Online-Store-Java/
-├── src/
-│ ├── Cart.java
-│ ├── Clothing.java
-│ ├── Electronics.java
-│ ├── Other.java
-│ ├── Product.java
-│ ├── Payment.java
-│ ├── User.java
-│ └── OnlineStoreApp.java
-├── .gitignore
-└── README.md
-
-
 ---
 
 ## 🚀 Getting Started
