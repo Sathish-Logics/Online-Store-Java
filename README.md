@@ -1,20 +1,66 @@
-# Online-Store-Java
+# 🛒 Online Store - Java Console App
 
-## Getting Started
+This is a console-based online store application built using Java and Object-Oriented Programming (OOP) principles. The app allows users to browse products, add them to the cart, and make purchases using various payment methods.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+---
 
-## Folder Structure
+## 👨‍💻 Features
 
-The workspace contains two folders by default, where:
+- Browse different product categories:
+  - 📱 Electronics
+  - 👕 Clothing
+  - 📦 Others
+- Add products to the shopping cart
+- Choose payment method (credit card, UPI, etc.)
+- Simulated checkout process
+- Console-based user interaction
+- Class-based modular structure using inheritance and polymorphism
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🧠 OOP Concepts Used
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Classes and Objects**
+- **Inheritance** (Electronics, Clothing, Other → Product)
+- **Method Overloading** (Payment methods)
+- **Encapsulation**
+- **Constructor Overloading**
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🗂️ Project Structure
+
+Online-Store-Java/
+├── src/
+│ ├── Cart.java
+│ ├── Clothing.java
+│ ├── Electronics.java
+│ ├── Other.java
+│ ├── Product.java
+│ ├── Payment.java
+│ ├── User.java
+│ └── OnlineStoreApp.java
+├── .gitignore
+└── README.md
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Java JDK (8 or above)
+- Command-line terminal
+
+### How to Run
+```bash
+javac src/*.java
+java src/OnlineStoreApp
+
+🙌 Acknowledgments
+This project was developed as part of learning OOP in Java with guidance from a mentor.
+
+---
+
+You can copy and paste this content into your `README.md` file directly.  
+Let me know if you want the `LICENSE` file too.
