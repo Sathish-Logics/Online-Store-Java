@@ -57,8 +57,6 @@ Online-Store-Java/
 javac src/*.java
 java src/OnlineStoreApp
 
-```
-Acknowledgments
-This project was developed as part of learning OOP in Java
+🙌 Acknowledgments
+This project was developed as part of learning OOP in Java with guidance from a mentor.
 
----
